@@ -7,7 +7,7 @@ permalink: /about/
 
 This dynamic canvas serves as a hub for tutorials on Persian and English languages, music, coding, and the poetic nuances of life.
 
-![Harmonies Unleashed: Tech, Life, and Poetry](/assets/images/about.jpg)
+![Harmonies Unleashed: Tech, Life, and Poetry](/assets/images/About.jpg)
 
 ## What to Expect
 
